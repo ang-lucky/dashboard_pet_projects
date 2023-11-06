@@ -1,6 +1,8 @@
 # Дашборд для врачей онкологов  
 
 [Cсылка на дашборд](https://datalens.yandex/3j5xlmyui870s) в DataLens.
+
+
 ![image](https://github.com/ang-lucky/pet_projects/blob/main/Images/dashboard/medical_data_dashboard.png?raw=true)
 
 ### Цель проекта:
