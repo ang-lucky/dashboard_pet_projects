@@ -1,7 +1,7 @@
 # Дашборд для врачей онкологов  
 
 [Cсылка на дашборд](https://datalens.yandex/3j5xlmyui870s) в DataLens.
-![image]([https://datalens.yandex/3j5xlmyui870s](https://github.com/ang-lucky/pet_projects/blob/main/Images/dashboard/medical_data_dashboard.png?raw=true))
+![image](https://github.com/ang-lucky/pet_projects/blob/main/Images/dashboard/medical_data_dashboard.png?raw=true)
 
 ### Цель проекта:
 Визуализация данных годового отчета главного онколога России. 
